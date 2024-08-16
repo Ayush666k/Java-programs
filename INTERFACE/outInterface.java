@@ -1,5 +1,4 @@
-import java.net.SocketPermission;
-import java.net.SocketTimeoutException;
+package INTERFACE;
 
 import INTERFACE.*;
 

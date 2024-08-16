@@ -1,5 +1,4 @@
-import java.lang.*;
-import java.util.*;
+
 class BinearySearch {
     public static void main(String[] args){
         int[] arr = {-18, -15, -12, -10, -7, -4, -1, 1, 5, 7, 9, 13, 15};

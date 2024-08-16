@@ -1,4 +1,4 @@
-import java.lang.*;
+
 class Calculator{
         double i;
         double x = i * i;

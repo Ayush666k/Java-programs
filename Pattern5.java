@@ -4,7 +4,7 @@ class Pattern5{
 
     }
     static void pattern(int n){
-        for(int i = 0; i < 2 * n; i++){ 
+        for(int i = 1; i < 2 * n; i++){ 
             int totalColsInRow = i > n ? 2 * n - i : i;
             for(int j = 0; j < totalColsInRow; j++){
                 System.out.print("* ");

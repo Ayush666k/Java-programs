@@ -6,6 +6,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "twoSort",
+            "request": "launch",
+            "mainClass": "twoSort",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "heap",
+            "request": "launch",
+            "mainClass": "Heaps.heap",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "ash.rough.Hello",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "arrStack",
+            "request": "launch",
+            "mainClass": "arrStack",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "findEty",
+            "request": "launch",
+            "mainClass": "findEty",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "changeCase",
+            "request": "launch",
+            "mainClass": "changeCase",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "hashMap",
+            "request": "launch",
+            "mainClass": "hashMap",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "hashMap",
+            "request": "launch",
+            "mainClass": "ash.rough.hashMap",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "linkedListStack$Node",
+            "request": "launch",
+            "mainClass": "linkedListStack$Node",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Nrep",
+            "request": "launch",
+            "mainClass": "Nrep",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "TriSum",
+            "request": "launch",
+            "mainClass": "TriSum",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "TriSum",
+            "request": "launch",
+            "mainClass": "ARRAYS.TriSum",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "myClass",
+            "request": "launch",
+            "mainClass": "myClass",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "myClass4",
+            "request": "launch",
+            "mainClass": "ash.myClass4",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "myClass$",
+            "request": "launch",
+            "mainClass": "ash.myClass$",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "rec",
+            "request": "launch",
+            "mainClass": "rec",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TREEES.Main",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "AVL$Main",
+            "request": "launch",
+            "mainClass": "TREEES.AVL$Main",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "ash.Switch",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "BST$Main",
+            "request": "launch",
+            "mainClass": "TREEES.BST$Main",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "Super",
+            "request": "launch",
+            "mainClass": "Super",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
+            "name": "BT",
+            "request": "launch",
+            "mainClass": "TREEES.BT",
+            "projectName": "Java Programs_677e65d"
+        },
+        {
+            "type": "java",
             "name": "game",
             "request": "launch",
             "mainClass": "game",

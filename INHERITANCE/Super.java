@@ -1,3 +1,4 @@
+
 class A{
     int i;
 }
@@ -7,13 +8,14 @@ class B extends A{
 
     B(int a,int b){
         
-        super.i = a; // i in A
         i = b; // i in B
+        super.i = a; // i in A
+
     }
 
     void show(){
-        System.out.println("i in superclass: " + super.i);
         System.out.println("i in subclass: " + i);
+        System.out.println("i in superclass: " + super.i);
     }
 }
 class Super{

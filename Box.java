@@ -18,7 +18,7 @@ class Box{
 
     Box(double i, double h, double w){
         this.h = h;
-        this.l = l;
+     //   this.l = l;
         this.w = w;
     }
 

@@ -7,7 +7,7 @@ class BinearySearch2D{
             {28, 29, 37, 49},
             {33, 34, 38, 50}
         };
-        System.out.println(Arrays.toString(search(arr, 10)));
+        System.out.println(Arrays.toString(search(arr, 11)));
     }
      static int[] search(int[][] matrix, int target ){
         int r = 0;
